@@ -117,4 +117,4 @@ Configuration & scoring
 
 Contact
 - Maintainainer: Aayush-kumar-ctrl
-- Email: proudindian519@gmai.com
+- Email: proudindian519@gmail.com
